@@ -1,0 +1,10 @@
+Time to get funky.
+Perhaps we'll get some user input...?
+ballman72 and kingston real
+We did it!
+Now we're closing it.
+Now we're opening it.
+Again.
+How are you?
+I'm bored now.
+Closing file.
